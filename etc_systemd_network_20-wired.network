@@ -1,0 +1,7 @@
+[Match]
+Name=enp4s0
+
+[Network]
+DHCP=yes
+IPv6PrivacyExtensions=yes
+LLMNR=no
